@@ -1,3 +1,3 @@
-# Java
+# SnakeGame
 First year/Second Season */Computer Science (java)/* participated group project .
 It is a basic snake game which has multiple functions such as , increase acceleration depending on scores , calculate and print the highest score and consumed time when game over , etc... 
